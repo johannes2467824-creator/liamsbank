@@ -345,11 +345,11 @@ input {
             <div class="logo">nordia.</div>
             <div class="demo-label">SVENSK BANK</div>
         </div>
-        <div class="avatar">EM</div>
+        <div class="avatar">LS</div>
     </div>
 
     <div class="greeting">Välkommen tillbaka</div>
-    <h1>Hej, Elias!</h1>
+    <h1>Hej, Liam!</h1>
 </header>
 
 <!-- HOME -->
